@@ -1,6 +1,6 @@
 {
-  "name": "El Me Liberó",
-  "short_name": "El Me Liberó",
+  "name": "Bienvenido (Remasterizado)",
+  "short_name": "Bienvenido (Remasterizado)",
   "description": "Reproductor de himnos y cantos cristianos",
   "start_url": "./index.html",
   "display": "standalone",
@@ -9,12 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "el-me-libero.png",
+      "src": "Bienvenidos.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "el-me-libero.png",
+      "src": "Bienvenidos.png",
       "sizes": "512x512",
       "type": "image/png"
     }
